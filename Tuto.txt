@@ -1,0 +1,8 @@
+- installer angular cli
+- Créer un projet Angular
+- installer bootstrap
+- créer l'app routing module
+- gerer l'app component html
+- créer un component et tester la redirection
+
+fin.
